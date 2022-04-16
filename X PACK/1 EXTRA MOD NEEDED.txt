@@ -2,3 +2,6 @@ Please note you also need to download this mod:
 https://www.curseforge.com/minecraft/mc-mods/blue-skies/files/3749831
 It could not be uploaded due to its large size
 You do not need to download this file
+
+You also need forge 1.18.2 40.0.52
+https://files.minecraftforge.net/net/minecraftforge/forge/
